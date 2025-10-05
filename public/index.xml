@@ -6,42 +6,21 @@
     <description>Recent content in Hello on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 14:10:58 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 15:09:38 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog 1</title>
-      <link>http://localhost:1313/blog/blog-1/</link>
-      <pubDate>Sun, 05 Oct 2025 14:10:58 +0700</pubDate>
-      <guid>http://localhost:1313/blog/blog-1/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
-      <pubDate>Sun, 05 Oct 2025 12:46:05 +0700</pubDate>
+      <pubDate>Sun, 05 Oct 2025 15:09:38 +0700</pubDate>
       <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;contact page content&lt;/p&gt;</description>
+      <description>&lt;p&gt;Contact page&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Us</title>
       <link>http://localhost:1313/about-us/</link>
-      <pubDate>Sun, 05 Oct 2025 12:16:37 +0700</pubDate>
+      <pubDate>Sun, 05 Oct 2025 15:09:22 +0700</pubDate>
       <guid>http://localhost:1313/about-us/</guid>
-      <description>&lt;p&gt;about me&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>nam dep trai</title>
-      <link>http://localhost:1313/blog/nam-is-a-mu-fan/</link>
-      <pubDate>Wed, 01 Oct 2025 13:57:00 +0700</pubDate>
-      <guid>http://localhost:1313/blog/nam-is-a-mu-fan/</guid>
-      <description>&lt;p&gt;em co 1 body dep&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;screenshot-2025-10-05-135826.png&#34; alt=&#34;body-dep&#34; title=&#34;body-dep&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mu Vo Doi</title>
-      <link>http://localhost:1313/blog/mu-vo-doi/</link>
-      <pubDate>Fri, 05 Sep 2025 14:11:24 +0700</pubDate>
-      <guid>http://localhost:1313/blog/mu-vo-doi/</guid>
-      <description>&lt;p&gt;vo cung vo doi&lt;/p&gt;</description>
+      <description>&lt;p&gt;about us&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

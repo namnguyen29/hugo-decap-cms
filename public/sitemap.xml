@@ -2,26 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/blog-1/</loc>
-    <lastmod>2025-10-05T14:10:58+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2025-10-05T14:01:49+07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2025-10-05T12:46:05+07:00</lastmod>
+    <lastmod>2025-10-05T15:09:38+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about-us/</loc>
+    <lastmod>2025-10-05T15:09:22+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cases/</loc>
+    <lastmod>2025-10-05T15:07:34+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-10-05T12:40:38+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about-us/</loc>
-    <lastmod>2025-10-05T12:16:37+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/nam-is-a-mu-fan/</loc>
-    <lastmod>2025-10-01T13:57:00+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/mu-vo-doi/</loc>
-    <lastmod>2025-09-05T14:11:24+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

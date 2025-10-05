@@ -1,4 +1,11 @@
 {
+  "name": "hugo-decap-cms",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Hugo site with Decap CMS and Tailwind CSS",
+  "scripts": {
+    "dev:cms": "npx decap-server"
+  },
   "devDependencies": {
     "@tailwindcss/cli": "^4.1.14",
     "tailwindcss": "^4.1.14"
