@@ -1,6 +1,7 @@
 baseURL = 'http://localhost:1313/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+frontmatterFormat = 'yaml'
 [build]
   [build.buildStats]
     enable = true
