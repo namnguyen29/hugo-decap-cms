@@ -1,0 +1,13 @@
+{{ define "main" }}
+<div class="container mx-auto px-4 py-8">
+  <h1 class="text-3xl font-bold mb-6">{{ .Title }}</h1>
+  <ul class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{ range .Data.Terms }}
+    <li class="bg-white rounded shadow p-6 hover:bg-gray-50 transition">
+      <a href="{{ .Page.Permalink }}" class="text-xl font-semibold text-blue-600 hover:underline"> {{ .LinkTitle }} </a>
+      <p class="mt-2 text-gray-600">{{ .Count }} posts</p>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+{{ end }}
