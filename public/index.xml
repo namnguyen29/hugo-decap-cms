@@ -6,15 +6,8 @@
     <description>Recent content in Hello on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Oct 2025 13:13:31 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 05 Oct 2025 12:46:05 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Blog 1</title>
-      <link>http://localhost:1313/blog/blog-1/</link>
-      <pubDate>Sun, 05 Oct 2025 13:13:31 +0700</pubDate>
-      <guid>http://localhost:1313/blog/blog-1/</guid>
-      <description>&lt;p&gt;blog 1&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Contact</title>
       <link>http://localhost:1313/contact/</link>
